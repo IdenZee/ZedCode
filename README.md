@@ -1,0 +1,2 @@
+# ZedCode
+startup
